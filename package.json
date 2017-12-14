@@ -1,0 +1,19 @@
+{
+  "name": "c8y-libphonenumber",
+  "version": "0.9.4",
+  "description": "libphonenumber ==============",
+  "main": "dist/libphonenumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janhommes/libphonenumber.git"
+  },
+  "author": "nathanhammond janhommes",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/janhommes/libphonenumber/issues"
+  },
+  "homepage": "https://github.com/janhommes/libphonenumber#readme"
+}
